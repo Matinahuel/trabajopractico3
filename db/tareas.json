@@ -1,0 +1,18 @@
+[
+  {
+    "titulo": "hola robert",
+    "estado": "en proceso"
+  },
+  {
+    "titulo": "tp 1",
+    "estado": "terminado"
+  },
+  {
+    "titulo": "tp 2",
+    "estado": "ponele que terminado"
+  },
+  {
+    "titulo": "tp 3",
+    "estado": "pendiente"
+  }
+]
